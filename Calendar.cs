@@ -5,6 +5,6 @@ public class Calendar
 
     public void FindCurrentSeason(){
         // Add your code here
-        Seasons[2] = "Autumn";
+        Seasons[1] = "Autumn";
     }
 }
